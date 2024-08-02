@@ -54,8 +54,7 @@ function minNum(arr){
 }
 console.log(minNum(arr));
 
-*/
-  //                       -------------------Math.random--------------------
+//                       -------------------Math.random--------------------
 
 function creatRandom(length){
     return Math.floor(Math.random()* length);
@@ -70,3 +69,14 @@ function creatRandom(length){
 }
 
 console.log(creatRandom(256));
+*/
+
+let hex = ['E','R']
+
+    let hexColor = '#';
+        hexColor += hex;
+
+        console.log(hexColor);
+    console.log(['u'] + ['y']);
+
+
