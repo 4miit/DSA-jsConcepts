@@ -1,6 +1,6 @@
-
-let b = [8,4,5,6,7,89,0,5,6,7,98,100];
 /*
+let b = [8,4,5,6,7,89,0,5,6,7,98,100];
+
 
 console.log(b.sort( (a,b) => a-b ));
 console.log(b.sort( (a,b) => a+b ));
